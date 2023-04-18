@@ -1,0 +1,161 @@
+header {
+  font-family: 'Bangers', sans-serif;
+  padding: 20px 40px;
+  background-color: rgb(69, 75, 27);
+  display: block;
+}
+
+.color-arrangement li {
+  display: inline-block;
+  height: 100px;
+  width: 80px;
+  margin: 2px;
+  list-style-type: square;
+}
+
+.color-arrangement {
+  border: medium;
+  border-style: solid;
+  border-color: black;
+  text-align: left;
+  font-family: 'bangers';
+  font-size: 17px;
+  font-weight: normal;
+  list-style-type: square;
+}
+
+.text-holder-matt-black {
+    border-style: hidden;
+    border-color: white;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(40, 40, 43);
+}
+
+.text-holder-army-green {
+  border-style: hidden;
+  border-color: white;
+  width: 100%;
+  height: 20%;
+  background-color: rgb(69, 75, 27);
+}
+
+.text-holder-aqua {
+  border-style: hidden;
+  border-color: white;
+  width: 100%;
+  height: 20%;
+  background-color: rgb(0, 255, 255);
+}
+
+.text-holder-red {
+  border-style: hidden;
+  border-color: white;
+  width: 100%;
+  height: 20%;
+  background-color: rgb(255, 0, 0);
+}
+
+.text-holder-almond {
+  border-style: hidden;
+  border-color: white;
+  width: 100%;
+  height: 20%;
+  background-color: rgb(234, 221, 202);
+}
+
+.color-name {
+    text-align: center;
+    font-family: "bangers";
+    font-weight: bold;
+    color: black;
+}
+
+.color-rgb {
+    text-align: center;
+    font-family: "bangers";
+    font-weight: normal;
+    color: black;
+    font-size: 17px;
+}
+
+.font-container {
+    border-style: solid;
+    text-align: left;
+}
+
+.Caveat {
+  font-family: "Caveat", sans serif;
+  font-weight: bold;
+  font-size; 20px;
+  text-decoration: underline;
+}
+
+.Caveat-regular {
+  font-family: "Caveat", sans serif;
+  font-size: 15px;
+}
+
+.Caveat-bold {
+  font-family: "Caveat";
+  font-size: 25px;
+  font-weight: 900px;
+}
+
+.Caveat-italic {
+  font-family: "Caveat";
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500px;
+}
+
+.Rubik-Wet-Paint {
+  font-family: "Rubik-Wet-Paint";
+  font-size; 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.Rubik-Wet-Paint-regular {
+  font-family: "Rubik-Wet-Paint";
+  font-size: 15px;
+}
+
+.Rubik-Wet-Paint-bold {
+  font-family: "Rubik-Wet-Paint";
+  font-size: 25px;
+  font-weight: 900px;
+}
+
+.Rubik-Wet-Paint-italic {
+  font-family: "Rubik-Wet-Paint";
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500px;
+}
+
+.Bangers {
+  font-family: "Bangers";
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.Bangers-regular {
+  font-family: "Bangers";
+  font-size: 15px;
+}
+
+.Bangers-bold {
+  font-family: "Bangers";
+  font-weight: bold;
+  font-size: 25px;
+  font-weight: 900px;
+}
+
+.Bangers-italic {
+  font-family: "Bangers";
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 500px;
+}
